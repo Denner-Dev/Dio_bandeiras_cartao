@@ -1,0 +1,39 @@
+{
+  "name": "credit-card-identifier",
+  "version": "1.0.0",
+  "description": "Validador profissional de bandeiras de cartão de crédito com suporte a 18+ bandeiras internacionais. Desafio DIO: Criando um Validador de Bandeiras de Cartão de Crédito com o GitHub Copilot",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node test/test.js",
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "cartão de crédito",
+    "bandeira de cartão",
+    "visa",
+    "mastercard",
+    "amex",
+    "validação",
+    "luhn",
+    "credit card",
+    "validation",
+    "javascript",
+    "node.js",
+    "dio",
+    "desafio",
+    "github-copilot"
+  ],
+  "author": "Seu Nome <seu.email@example.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seu-usuario/credit-card-identifier.git"
+  },
+  "bugs": {
+    "url": "https://github.com/seu-usuario/credit-card-identifier/issues"
+  },
+  "homepage": "https://github.com/seu-usuario/credit-card-identifier#readme",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
